@@ -9,6 +9,7 @@ Contáctame **📞**
 #### Correo electrónico: lucasmonteras@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/lucas-monteras
 #### GitHub: https://github.com/LucasMonteras
+#### Alura : https://app.aluracursos.com/user/lucasmonteras
 
 ### Habilidades técnicas 💻
 #### Lenguajes de programación: Java, JavaScript, Python, C, C++, SQL, HTML, CSS, 
