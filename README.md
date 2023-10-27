@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasmonteras" alt="lucasmonteras" /></a> </p>
 
-- 🔭 I’m currently working on [[Microservicios](https://github.com/LucasMonteras/Especializacion](https://github.com/LucasMonteras/Especializacion))
+- 🔭 I’m currently working on [Microservicios](https://github.com/LucasMonteras/Especializacion](https://github.com/LucasMonteras/Especializacion))
 
 - 🌱 I’m currently learning **MICROSERVICIOS ,NOSQL y DATA ANALYTICS**
 
